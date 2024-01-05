@@ -1,9 +1,12 @@
 Farbpalette
 
-Rot
+**Rot**
 Grün
 Hellblau
 Dunkelblau
 Gelb
 Magenta
-Sind alles tolle Farben.
+
+toll
+
+# ~Sind alles~ toll ~e~ ~Farben.~ #
