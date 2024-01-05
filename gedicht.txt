@@ -1,6 +1,6 @@
 Farbpalette
-
-Rot
+Dunkelrot
+Hellrot
 Grün
 Blau
 Gelb
